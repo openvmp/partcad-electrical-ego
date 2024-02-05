@@ -1,0 +1,9 @@
+desc: EGO POWER+ products
+url: https://egopowerplus.com/
+parts:
+  battery-7_5:
+    type: step
+    desc: POWER+ 7.5 AMP HOUR BATTERY WITH FUEL GAUGE
+    vendor: ego
+    sku: BA4200T
+    url: https://egopowerplus.com/battery-7-5amp-fuel-gauge/
